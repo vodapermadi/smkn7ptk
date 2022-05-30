@@ -4,6 +4,14 @@
     font-family: "Alata",sans-serif;
 }
 
+.kotak {
+    width: 275px;
+    height: 250px;
+    margin :auto;
+    background-color: rgba(35, 57, 255, 0.56);
+    border-radius: 15px;
+}
+
 .buttonColor {
     background-color: rgba(35, 57, 255, 0.56);
     padding: 7px 100px 7px 100px;
@@ -22,4 +30,25 @@
 
 .navbarColor {
     background-color: rgba(35, 57, 255, 0.56);
+}
+
+.buttonRPL{
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(35, 57, 255, 0.56);
+    padding: 7px 52px 7px 52px;
+}
+
+.buttonTKJ{
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(35, 57, 255, 0.56);
+    padding: 7px 110px 7px 110px;
+}
+
+.buttonTBSM{
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: rgba(35, 57, 255, 0.56);
+    padding: 7px 70px 7px 70px;
 }
