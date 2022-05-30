@@ -56,6 +56,13 @@ export const ContentBlog = () => {
             </p>
           </div>
         </div>
+        <div className="row justify-content-center">
+          <div className="col-md-4">
+            <h4 className="text-center containerText py-2 text-white">
+              JURUSAN
+            </h4>
+          </div>
+        </div>
       </div>
     </>
   );

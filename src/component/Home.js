@@ -21,7 +21,7 @@ const Home = () => {
                   style={{ borderRadius: "50%", width: "250px" }}
                 />
               </p>
-              <Link to={`/profil`} className="btn buttonColor text-white">
+              <Link to={`/profil/smkn7ptk`} className="buttonColor text-white">
                 Welcome
               </Link>
             </div>
