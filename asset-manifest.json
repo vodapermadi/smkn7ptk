@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/smkn7ptk/static/css/main.f1f9b219.css",
+    "main.js": "/smkn7ptk/static/js/main.1b473c3a.js",
+    "static/media/smk.jpg": "/smkn7ptk/static/media/smk.e0f5cd0b5523f6c83618.jpg",
+    "index.html": "/smkn7ptk/index.html",
+    "main.f1f9b219.css.map": "/smkn7ptk/static/css/main.f1f9b219.css.map",
+    "main.1b473c3a.js.map": "/smkn7ptk/static/js/main.1b473c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f9b219.css",
+    "static/js/main.1b473c3a.js"
+  ]
+}
