@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Dosis:wght@700&family=Nunito:wght@600&display=swap');
 
 * {
-    font-family: "Alata",sans-serif;
+    font-family: "Nunito",sans-serif;
 }
 
 .kotak {
@@ -21,6 +21,11 @@
 
 .containerText{
     background-color: rgba(35, 57, 255, 0.56);
+    border-radius: 15px;
+}
+
+.containerSpesial {
+    background: rgba(196, 249, 230, 0.62);
     border-radius: 15px;
 }
 

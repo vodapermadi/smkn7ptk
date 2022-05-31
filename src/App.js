@@ -9,7 +9,6 @@ import Ak from "./component/jurusan/Ak";
 import Tlas from "./component/jurusan/Tlas";
 import Tbsm from "./component/jurusan/Tbsm";
 
-
 function App() {
   return (
     <>

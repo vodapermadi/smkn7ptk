@@ -81,7 +81,7 @@ export const ContentBlog = () => {
                 style={{ width: "300px", borderRadius: "15px" }}
               />
             </p>
-            <Link to={`/jurusan/rpl`} className="buttonRPL text-white">
+            <Link to={`/jurusan/rpl`} className="buttonRPL text-white fs-5">
               Rekayasa Perangkat Lunak
             </Link>
           </div>
@@ -100,7 +100,7 @@ export const ContentBlog = () => {
                 }}
               />
             </p>
-            <Link to={`/jurusan/tkj`} className="buttonTKJ text-white">
+            <Link to={`/jurusan/tkj`} className="buttonTKJ text-white fs-5">
               Teknik Komputer Jaringan
             </Link>
           </div>
@@ -119,7 +119,7 @@ export const ContentBlog = () => {
                 }}
               />
             </p>
-            <Link to={`/jurusan/mm`} className="buttonTKJ text-white">
+            <Link to={`/jurusan/mm`} className="buttonTKJ text-white fs-5">
               Multimedia
             </Link>
           </div>
@@ -138,7 +138,7 @@ export const ContentBlog = () => {
                 }}
               />
             </p>
-            <Link to={`/jurusan/ak`} className="buttonTKJ text-white">
+            <Link to={`/jurusan/ak`} className="buttonTKJ text-white fs-5">
               Akutansi
             </Link>
           </div>
@@ -157,7 +157,7 @@ export const ContentBlog = () => {
                 }}
               />
             </p>
-            <Link to={`/jurusan/tlas`} className="buttonTKJ text-white">
+            <Link to={`/jurusan/tlas`} className="buttonTKJ text-white fs-5">
               Teknik Pengelasan
             </Link>
           </div>
@@ -170,8 +170,8 @@ export const ContentBlog = () => {
                 <h2>No Logo</h2>
               </div>
             </p>
-            <Link to={`/jurusan/tbsm`} className="buttonTBSM text-white">
-              Teknik Bisnis Sepeda Motor
+            <Link to={`/jurusan/tbsm`} className="buttonTBSM text-white fs-5">
+              Teknik Sepeda Motor
             </Link>
           </div>
         </div>
