@@ -12,13 +12,13 @@ const Home = () => {
             <div className="col-md-12 text-center">
               <h1>SMK NEGERI 7 PONTIANAK</h1>
             </div>
-            <div className="col-md-12 text-center">
+            <div className="col-md-3 text-center">
               <p>
                 <img
                   src={smkn7}
                   alt="smkn7ptk"
                   className="img py-4"
-                  style={{ borderRadius: "50%", width: "250px" }}
+                  style={{ width: "250px" ,borderRadius : "40%" }}
                 />
               </p>
               <Link to={`/profil/smkn7ptk`} className="buttonColor text-white">
