@@ -1,12 +1,13 @@
 import React from "react";
 import NavbarComponent from "../../include/NavbarComponent";
 import tlas from "../../include/asset/tlas.jpg";
+import NavbarKejuruan from "../../include/NavbarKejuruan";
 
 const Tlas = () => {
   return (
     <>
       <div>
-        <NavbarComponent />
+        <NavbarKejuruan />
       </div>
       <div className="container">
         <div className="row justify-content-center">

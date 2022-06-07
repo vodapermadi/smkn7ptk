@@ -1,12 +1,13 @@
 import React from "react";
 import NavbarComponent from "../../include/NavbarComponent";
 import tkj from "../../include/asset/tkj2.jpg";
+import NavbarKejuruan from "../../include/NavbarKejuruan";
 
 const Tkj = () => {
   return (
     <>
       <div>
-        <NavbarComponent />
+        <NavbarKejuruan/>
       </div>
       <div className="container">
         <div className="row my-5 justify-content-center">

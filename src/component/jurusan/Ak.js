@@ -1,12 +1,13 @@
 import React from "react";
 import NavbarComponent from "../../include/NavbarComponent";
 import ak from "../../include/asset/ak.jpg";
+import NavbarKejuruan from "../../include/NavbarKejuruan";
 
 const Ak = () => {
   return (
     <>
       <div>
-        <NavbarComponent />
+        <NavbarKejuruan />
       </div>
       <div className="container">
         <div className="row justify-content-center my-4">

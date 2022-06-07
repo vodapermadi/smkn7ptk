@@ -1,12 +1,13 @@
 import React from "react";
 import NavbarComponent from "../../include/NavbarComponent";
 import mm from "../../include/asset/mm.jpg";
+import NavbarKejuruan from "../../include/NavbarKejuruan";
 
 const Mm = () => {
   return (
     <>
       <div>
-        <NavbarComponent />
+        <NavbarKejuruan />
       </div>
       <div className="container">
         <div className="row my-5 justify-content-center text-white">

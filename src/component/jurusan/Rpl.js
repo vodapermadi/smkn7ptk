@@ -1,12 +1,13 @@
 import React from "react";
 import NavbarComponent from "../../include/NavbarComponent";
 import rpl from "../../include/asset/rpl2.jpg";
+import NavbarKejuruan from "../../include/NavbarKejuruan";
 
 const Rpl = () => {
   return (
     <>
       <div>
-        <NavbarComponent />
+        <NavbarKejuruan />
       </div>
       <div className="container">
         <div className="row my-5 justify-content-center">
