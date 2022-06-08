@@ -19,7 +19,7 @@ export const ContentBlog = () => {
             <h4 className="containerText py-2 text-white">VISI DAN MISI</h4>
           </div>
         </div>
-        <div className="row justify-content-center mt-5">
+        <div className="row justify-content-center mt-3">
           <div className="col-md-10">
             <p className="containerText p-4 text-white">
               <h4>VISI</h4>
@@ -96,11 +96,13 @@ export const ContentBlog = () => {
                 style={{
                   width: "400px",
                   margin: "30px 0 30px 0",
-                  borderRadius : "15px"
+                  borderRadius: "15px"
                 }}
               />
             </p>
-            <Link to={`/jurusan/tkj`} className="buttonTKJ text-white fs-5">
+            <Link to={`/jurusan/tkj`} className="buttonTKJ text-white fs-5" style={{
+              padding: "7px 50px 7px 50px"
+            }}>
               Teknik Komputer Jaringan
             </Link>
           </div>
@@ -115,7 +117,7 @@ export const ContentBlog = () => {
                 style={{
                   width: "300px",
                   margin: "30px 0 30px 0",
-                  borderRadius : "15px"
+                  borderRadius: "15px"
                 }}
               />
             </p>
@@ -134,7 +136,7 @@ export const ContentBlog = () => {
                 style={{
                   width: "265px",
                   margin: "30px 0 30px 0",
-                  borderRadius : "15px"
+                  borderRadius: "15px"
                 }}
               />
             </p>
@@ -153,7 +155,7 @@ export const ContentBlog = () => {
                 style={{
                   width: "150px",
                   margin: "30px 0 30px 0",
-                  borderRadius : "15px"
+                  borderRadius: "15px"
                 }}
               />
             </p>

@@ -36,8 +36,8 @@ const Rpl = () => {
             </p>
           </div>
         </div>
-        <div className="row my-5">
-          <div className="col-md-12 my-5">
+        <div className="row my-3">
+          <div className="col-md-12 my-3">
             <p className="containerText text-white p-4">
               <h2>Keunggulan Jurusan RPL</h2>
               <h5>
@@ -64,7 +64,11 @@ const Rpl = () => {
         </div>
         <div className="row">
           <div className="col-md-12 text-center">
-            <h2>APA SAJA YANG DI PELAJARI?</h2>
+            <h2 > <b>
+              APA SAJA YANG DI PELAJARI?
+              
+              </b> 
+              </h2>
           </div>
         </div>
         <div className="row containerText py-5 px-4">
